@@ -8,3 +8,4 @@ This is a demo of ChatCompletion using the OpenAI Python API with comments in Ja
 # Requires
 - `pip install openai` (Already implemented on Colab)
 - `import os` (Already implemented on Colab)
+- You must obtain an API key from the OpenAI website. For more information : https://platform.openai.com/docs/api-reference
